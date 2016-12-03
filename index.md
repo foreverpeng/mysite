@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![burrito](burrito.jpg)
 
 # stpeng
 
